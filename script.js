@@ -1,4 +1,4 @@
-// obtiene el formulario
+
 const form = document.querySelector('#registro');
 
 // maneja el envío del formulario
